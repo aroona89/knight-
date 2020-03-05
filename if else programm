@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+int a=1;
+if(a==10){
+cout<<"i am a knight";}
+else {
+cout<<"i am obvious a knight";}
+}
